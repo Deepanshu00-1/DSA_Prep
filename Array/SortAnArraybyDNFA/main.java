@@ -1,5 +1,4 @@
 package SortAnArraybyDNFA;
-
 import java.util.Arrays;
 
 public class main {
