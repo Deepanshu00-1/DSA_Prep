@@ -13,5 +13,7 @@ public class p4 {
         Arrays.sort(aArr);
         Arrays.sort(bArr);
         return Arrays.equals(aArr, bArr);
+
+        
     }
 }
